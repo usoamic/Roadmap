@@ -1,8 +1,12 @@
 # Roadmap
+- [ ] Contract (V2) (by primys)
 - [ ] UsoWallet-CLI (by primys)
+- [ ] SwapBackend  (by primys)
+---
 - [ ] Explorer (by pochitS)
 - [ ] Web site (by primys)
 - [ ] UsoWallet-Desktop (V1) (by primys)
+---
 - [ ] UsoNotes-Android (V1) (by pochitS)
 - [ ] UsoWallet-Android (V1) (by primys)
 - [ ] UsoNotes-Web (by pochitS)
