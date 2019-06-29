@@ -1,16 +1,17 @@
 # Roadmap
-- [ ] UsoWallet-CLI
-- [ ] Explorer
-- [ ] Web site
-- [ ] UsoWallet-Desktop (V1)
-- [ ] UsoNotes-Android (V1)
-- [ ] UsoWallet-Android (V1)
-- [ ] UsoNotes-Web
-- [ ] UsoCommunity-Android
-- [ ] UsoWallet-Android (V2)
-- [ ] UsoNotes-Android (V2)
-- [ ] UsoWallet-Desktop (V2)
-- [ ] UsoNotes-Desktop (V1)
-- [ ] Telegram Bot
-- [ ] UsoWallet-Desktop (V3)
-- [ ] UsoNotes-Desktop (V2)
+- [ ] UsoWallet-CLI (by primys)
+- [ ] Explorer (by pochitS)
+- [ ] Web site (by primys)
+- [ ] UsoWallet-Desktop (V1) (by primys)
+- [ ] UsoNotes-Android (V1) (by pochitS)
+- [ ] UsoWallet-Android (V1) (by primys)
+- [ ] UsoNotes-Web (by pochitS)
+- [ ] UsoCommunity-Android (by primys)
+---
+- [ ] UsoWallet-Android (V2) (by primys)
+- [ ] UsoNotes-Android (V2) (by pochitS)
+- [ ] UsoWallet-Desktop (V2) (by primys)
+- [ ] UsoNotes-Desktop (V1) (by pochitS)
+- [ ] Telegram Bot (by primys)
+- [ ] UsoWallet-Desktop (V3) (by primys)
+- [ ] UsoNotes-Desktop (V2) (by pochitS)
