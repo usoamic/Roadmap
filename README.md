@@ -1,2 +1,16 @@
 # Roadmap
-Roadmap of Usoamic Project
+- [ ] UsoWallet-CLI
+- [ ] Explorer
+- [ ] Web site
+- [ ] UsoWallet-Desktop (V1)
+- [ ] UsoNotes-Android (V1)
+- [ ] UsoWallet-Android (V1)
+- [ ] UsoNotes-Web
+- [ ] UsoCommunity-Android
+- [ ] UsoWallet-Android (V2)
+- [ ] UsoNotes-Android (V2)
+- [ ] UsoWallet-Desktop (V2)
+- [ ] UsoNotes-Desktop (V1)
+- [ ] Telegram Bot
+- [ ] UsoWallet-Desktop (V3)
+- [ ] UsoNotes-Desktop (V2)
