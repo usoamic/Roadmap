@@ -1,6 +1,6 @@
 # Roadmap
-- [ ] Contract (V2) (by primys)
-- [ ] UsoWallet-CLI (by primys)
+- [x] Contract (V2) (by primys)
+- [x] UsoWallet-CLI (by primys)
 - [x] Usoamic-Kotlin (by primys)
 - [ ] SwapBackend (by primys)
 ---
