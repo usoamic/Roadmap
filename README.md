@@ -4,9 +4,9 @@
 - [x] Usoamic-Kotlin (by primys)
 - [ ] SwapBackend (by primys)
 ---
-- [ ] Explorer (by pochitS)
+- [x] Explorer (by pochitS)
 - [ ] Web site (by primys)
-- [ ] UsoWallet-Desktop (V1) (by primys)
+- [x] UsoWallet-Web (V1) (by primys)
 ---
 - [ ] UsoNotes-Android (V1) (by pochitS)
 - [ ] UsoWallet-Android (V1) (by primys)
@@ -15,8 +15,8 @@
 ---
 - [ ] UsoWallet-Android (V2) (by primys)
 - [ ] UsoNotes-Android (V2) (by pochitS)
-- [ ] UsoWallet-Desktop (V2) (by primys)
+- [ ] UsoWallet-Web (V2) (by primys)
 - [ ] UsoNotes-Desktop (V1) (by pochitS)
 - [ ] Telegram Bot (by primys)
-- [ ] UsoWallet-Desktop (V3) (by primys)
+- [ ] UsoWallet-Web (V3) (by primys)
 - [ ] UsoNotes-Desktop (V2) (by pochitS)
