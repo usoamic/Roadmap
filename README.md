@@ -2,7 +2,7 @@
 - [x] Contract (V2) (by primys)
 - [x] UsoWallet-CLI (by primys)
 - [x] Usoamic-Kotlin (by primys)
-- [ ] SwapBackend (by primys)
+- [x] SwapBackend (by primys)
 ---
 - [x] Explorer (by pochitS)
 - [ ] Web site (by primys)
