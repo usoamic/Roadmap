@@ -5,7 +5,7 @@
 - [x] SwapBackend (by primys)
 ---
 - [x] Explorer (by pochitS)
-- [ ] Web site (by primys)
+- [x] Web site (by primys)
 - [x] UsoWallet-Web (V1) (by primys)
 ---
 - [ ] UsoNotes-Android (V1) (by pochitS)
