@@ -8,8 +8,8 @@
 - [x] Web site (by primys)
 - [x] UsoWallet-Web (V1) (by primys)
 ---
-- [ ] UsoNotes-Android (V1) (by pochitS)
-- [ ] UsoWallet-Android (V1) (by primys)
+- [ ] UsoNotes-Android (V1) (by pochitS | IN WORK)
+- [ ] UsoWallet-Android (V1) (by primys | IN WORK)
 - [ ] UsoNotes-Web (by pochitS)
 - [ ] UsoCommunity-Android (by primys)
 ---
