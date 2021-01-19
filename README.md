@@ -13,7 +13,7 @@ Stage II:
 
 Stage III:
 - [x] UsoWallet-Android (V1) (by primys).
-- [ ] UsoWallet-Desktop (V1) (by primys | IN PROGRESS).
+- [x] UsoWallet-Desktop (V1) (by primys).
 
 Stage IV:
 - [ ] UsoNotes-Web (V1) (by primys).
