@@ -16,9 +16,9 @@ Stage III:
 - [x] UsoWallet-Desktop (V1) (by primys).
 
 Stage IV:
-- [ ] UsoNotes-Web (V1) (by primys).
-- [ ] UsoNotes-Android (V1) (by primys).
-- [ ] UsoNotes-Desktop (V1) (by primys).
+- [ ] UsoApp-Web (V1) (by primys).
+- [x] UsoApp-Android (V1) (by primys).
+- [ ] UsoApp-Desktop (V1) (by primys).
 
 Stage V:
 - [ ] Exchange listing.
